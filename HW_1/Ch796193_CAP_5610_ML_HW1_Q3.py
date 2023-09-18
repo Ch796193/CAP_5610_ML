@@ -46,7 +46,7 @@ b = np.random.rand(k)
 # In[7]:
 
 
-b
+b 
 
 
 # Correlation using Scipy
